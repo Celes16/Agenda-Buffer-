@@ -4,7 +4,7 @@
 
 Este é um simples sistema de gerenciamento de registros de pessoas, implementado em C, com armazenamento em memória dinâmica (`malloc`/`realloc`). O sistema permite **adicionar**, **listar**, **buscar** e **remover** pessoas utilizando ponteiros e manipulação direta de memória.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Adicionar novo registro de pessoa (nome, idade, e-mail)
 - Listar todas as pessoas cadastradas
@@ -13,9 +13,9 @@ Este é um simples sistema de gerenciamento de registros de pessoas, implementad
 - Gerenciamento dinâmico de memória com realocação
 - Interface via terminal
 
-## 🧠 Estrutura dos Dados
+## Estrutura dos Dados
 
-Cada pessoa é armazenada em uma área contínua de memória alocada dinamicamente, no seguinte formato:
+Cada pessoa é armazenada em uma área contínua de memória alocada dinamicamente.
 
 ### Exemplo
 
